@@ -25,7 +25,7 @@ function Calculator() {
       setInput(answer + val);
       setAnswer("");
     } else setInput(str);
-    // setInput(str);
+    // setInput(str); to set str
   };
 
   //Clear screen
